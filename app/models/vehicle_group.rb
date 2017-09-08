@@ -1,0 +1,2 @@
+class VehicleGroup < ApplicationRecord
+end

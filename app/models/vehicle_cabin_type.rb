@@ -1,0 +1,2 @@
+class VehicleCabinType < ApplicationRecord
+end

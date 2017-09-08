@@ -1,0 +1,2 @@
+class VehicleChassisType < ApplicationRecord
+end
